@@ -4,7 +4,7 @@ const App = () => {
   const [term, setTerm] = useState('')
   return (
     <>
-      <div>Hello</div>
+      <div>My Wiki App</div>
       <div>
         <form>
           <label>Search:</label>
